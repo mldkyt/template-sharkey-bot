@@ -1,0 +1,8 @@
+[project]
+name = "template-sharkey-bot"
+version = "0.1.0"
+description = "Template Sharkey bot"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.33.1",
+]
